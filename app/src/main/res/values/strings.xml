@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Week-9-Task</string>
+    <string name="placeholderBody">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis convallis nibh, ut tempor risus porttitor nec. Nam eu ante sit amet mauris semper rutrum ac in magna. Duis fringilla justo nunc, ac fermentum felis interdum sit amet. Nulla lacinia iaculis ligula dictum aliquet. Etiam nisi erat, elementum ut orci et, tempor lacinia sem. Duis
+        ac leo a ante vulputate ultrices a ac dui. Aliquam laoreet turpis at lorem feugiat pharetra. Pellentesque ultrices finibus lacinia.</string>
+
+    <string name="placeholder_title_body"> &lt;b>%1$s&lt;/b> %2$s</string>
+    <string name="placeholder_comment_name_email"> &lt;b>%1$s&lt;/b>    %2$s</string>
+    <string name="placeholder_user_id">User ID: %1$d  ID: %2$d</string>
+    <string name="filtered">Filter</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
